@@ -5,7 +5,7 @@ client = MongoClient(
     "mongodb+srv://jaky:jaky14@cluster0.r55sktz.mongodb.net/"
 )
 
-db = client.dbsparta
+db = client.zaky
 
 app = Flask(__name__)
 
